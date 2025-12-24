@@ -2,10 +2,7 @@
 
 This project is a real-time multi-room chat application built with Node.js and Socket.io. It allows users to join different chat rooms and communicate instantly through a web-based interface.
 
-The app is deployed on AWS EC2 and managed with PM2 to keep the server running continuously, making it easy to try without needing to set it up locally.
-
-### Live Demo
-http://ec2-3-137-207-13.us-east-2.compute.amazonaws.com:3457/client.html
+The app was initially deployed on AWS EC2 and managed with PM2 to keep the server running continuously. However, I've since closed that down due to AWS's limitations on the free-tier. 
 
 ### Features
 - Join and participate in multiple chat rooms  
